@@ -1,0 +1,1 @@
+Clau simètrica per a usar durant la comunicació.
